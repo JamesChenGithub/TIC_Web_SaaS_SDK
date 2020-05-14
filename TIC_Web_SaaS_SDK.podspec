@@ -1,7 +1,9 @@
-Pod::Spec.new do |spec|
+
+Pod::Spec.new do |s|
+
   s.name         = "TIC_Web_SaaS_SDK"
   s.version      = "1.0.0"
-  s.summary      = "腾讯TIC Web SaaS SDK"
+  s.summary      = "TIC Web SaaS SDK"
   s.description  = <<-DESC
                       腾讯云互动教育极简单接入SaaS的Web方案
                    DESC
@@ -20,4 +22,5 @@ Pod::Spec.new do |spec|
   s.dependency 'Masonry'
   s.dependency 'YYModel'
   s.dependency 'TXLiteAVSDK_TRTC'
+
 end
