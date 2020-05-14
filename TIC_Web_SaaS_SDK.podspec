@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
 
   # the framework upload to Cocoa Pods
   s.vendored_frameworks = 'TIC_Web_SaaS_SDK.framework'
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 arm64 armv7' }
   s.frameworks = 'Foundation'
   s.dependency 'Masonry'
   s.dependency 'YYModel'
