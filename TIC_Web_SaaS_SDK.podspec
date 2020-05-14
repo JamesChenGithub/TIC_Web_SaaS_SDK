@@ -18,9 +18,9 @@ Pod::Spec.new do |s|
 
   # the framework upload to Cocoa Pods
   s.vendored_frameworks = 'TIC_Web_SaaS_SDK.framework'
-  s.frameworks = 'Foundation'
-  s.dependency 'Masonry'
-  s.dependency 'YYModel'
-  s.dependency 'TXLiteAVSDK_TRTC'
+  # s.frameworks = 'Foundation'
+  # s.dependency 'Masonry'
+  # s.dependency 'YYModel'
+  # s.dependency 'TXLiteAVSDK_TRTC'
 
 end
