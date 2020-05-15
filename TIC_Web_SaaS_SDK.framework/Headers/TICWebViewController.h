@@ -5,8 +5,8 @@
 //  Created by AlexiChen on 2020/5/6.
 //  Copyright © 2020 AlexiChen. All rights reserved.
 //
-// WebSaaSSDKVersion : 1.0.126
-// WebGitCommitID : 96da3d347c8949ca504ab00ff3306ab8650f28ff
+// WebSaaSSDKVersion : 1.0.130
+// WebGitCommitID : 1eb4e0acd2cfa143f85e06049d78d14f3db8be79
 
 #import <UIKit/UIKit.h>
 
